@@ -14,22 +14,22 @@ POS Printer (configured to work with the application)
 
 1. Clone the repository:
 
-    git clone https://github.com/RepakulaTharuni/printpos-pro.git ```
+    git clone https://github.com/RepakulaTharuni/printpos-pro.git
     
 
 2. Navigate to the frontend directory:
 
-    cd printpos-pro/frontend ```
+    cd printpos-pro/frontend 
     
 
 3. Install dependencies:
 
-    npm install ```
+    npm install
     
 
 4. Start the development server:
 
-    npm start ```
+    npm start 
     
 This command will start the frontend on a development server, usually accessible at http://localhost:3000.
 
@@ -38,12 +38,12 @@ This command will start the frontend on a development server, usually accessible
 1. Clone the repository :
 
    
-    git clone https://github.com/RepakulaTharuni/printpos-pro.git ```
+    git clone https://github.com/RepakulaTharuni/printpos-pro.git
     
 
 2. Navigate to the backend directory:
 
-    cd printpos-pro/backend```
+    cd printpos-pro/backend
     
 
 3. Install dependencies (using Maven or Gradle):
@@ -55,7 +55,7 @@ This command will start the frontend on a development server, usually accessible
 
 4. Run the backend server:
 
-    mvn spring-boot:run```
+    mvn spring-boot:run
     
 
     This command will start the backend Spring Boot application on http://localhost:8080.
